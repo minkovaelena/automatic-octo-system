@@ -1,0 +1,3 @@
+# new_file_70.txt
+
+Content for new_file_70.txt
